@@ -1,0 +1,3 @@
+C:/Users/tyyp-/Desktop/Repository/C++ForCProgrammers_SantaCruz-A/ConvertingCProgram/cmake-build-debug/CMakeFiles/ConvertingCProgram.dir
+C:/Users/tyyp-/Desktop/Repository/C++ForCProgrammers_SantaCruz-A/ConvertingCProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tyyp-/Desktop/Repository/C++ForCProgrammers_SantaCruz-A/ConvertingCProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
