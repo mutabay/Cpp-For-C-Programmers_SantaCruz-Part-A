@@ -1,3 +1,0 @@
-C:/Users/tyyp-/Desktop/Repository/C++/Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/tyyp-/Desktop/Repository/C++/Test/cmake-build-debug/CMakeFiles/Test.dir
-C:/Users/tyyp-/Desktop/Repository/C++/Test/cmake-build-debug/CMakeFiles/edit_cache.dir
