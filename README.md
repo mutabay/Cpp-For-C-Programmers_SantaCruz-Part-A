@@ -3,43 +3,27 @@ C++ For C Programmers Coursera University of California Santa Cruz - Mini Projec
 
 Small projects I wrote in the C++ For C Programmers course I got from Santa Cruz University through Coursera.
 
-Contents : 
-  // Convert program to C++
-        //
-        // change to C++ io
-        //
-        // change to one line comments
-        //
-        // change defines of constants to const
-        //
-        // change array to vector<>
-        //
-        // inline any short function
+#### Contents  
+  * Convert C program to C++
         
-  // Generics
+  * Generics
   
-  // Operator Overloading_Enums
+  * Operator Overloading_Enums
   
-  // Polygon
-    Point .h .cpp
+  * Polygon
   
-  // Graphs
-        // BinaryHeap.h
-        // Graph .h .cpp
+  * Graphs
        
-  // ShortestPathAlgorithm ( Djikstra )
-        // Graph .h .cpp
-        // PriorityQueue .h .cpp
-        // ShortestPath .h .cpp
-  
-  // MinimumSpanningTree
-        // DisjointSet .h .cpp
-        // General.h
-        // Graph .h .cpp
-        // Kruskal .h .cpp
-        // MinimumSpanningTree.h
-        // Prim .h .cpp
-        // PriorityQueue .h .cpp
+  * ShortestPathAlgorithm ( Djikstra )
+   
+  * MinimumSpanningTree  
+        - DisjointSet .h .cpp  
+        - General.h  
+        - Graph .h .cpp  
+        - Kruskal .h .cpp  
+        - MinimumSpanningTree.h  
+        - Prim .h .cpp  
+        - PriorityQueue .h .cpp  
         
-  // Test For Consolidation Basics
+  - Test For Consolidation Basics
   
