@@ -1,3 +1,0 @@
-C:/Users/tyyp-/Desktop/Repository/C++/Generics_Summable/cmake-build-debug/CMakeFiles/Generics_Summable.dir
-C:/Users/tyyp-/Desktop/Repository/C++/Generics_Summable/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tyyp-/Desktop/Repository/C++/Generics_Summable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
